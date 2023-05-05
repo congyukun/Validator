@@ -1,6 +1,6 @@
 {
     "name": "kun/validator",
-    "homepage": "https://git.haohaozhu.me/composer_lib/validator",
+    "homepage": "https://github.com/congyukun/Validator",
     "description": " yaf validator",
     "keywords": ["validator"],
     "type": "library",
