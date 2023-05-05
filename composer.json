@@ -1,0 +1,21 @@
+{
+    "name": "kun/validator",
+    "homepage": "https://git.haohaozhu.me/composer_lib/validator",
+    "description": " yaf validator",
+    "keywords": ["validator"],
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Kun\\Validator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "congyukun",
+            "email": "15313922265@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
