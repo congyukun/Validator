@@ -14,5 +14,9 @@
             "name": "congyukun",
             "email": "15313922265@163.com"
         }
-    ]
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0"
+    }
 }
